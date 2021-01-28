@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiceRoller001</string>
+    <string name="roll_button">roll button</string>
+    <string name="app_by_liubov">app by Liubov</string>
+    <string name="LOG_MESSAGE1">i am a message</string>
+    <string name="LOG_MESSAGE2">Button clicked to roll the dice</string>
+    <string name="SCREEN_MESSAGE_2">Dice Rolled</string>
+    <string name="DEAFAULT_MESSAGE">Hello World  !!!</string>
+</resources>
